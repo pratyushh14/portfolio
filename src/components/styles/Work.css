@@ -42,9 +42,11 @@
 
 .carousel-slide {
   min-width: 100%;
+  width: 100%;
   flex-shrink: 0;
   box-sizing: border-box;
   padding: 50px 0;
+  overflow: hidden;
 }
 
 .carousel-content {
@@ -56,6 +58,7 @@
 
 .carousel-info {
   flex: 1;
+  min-width: 0;
   display: flex;
   gap: 30px;
   align-items: flex-start;
@@ -112,6 +115,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  min-width: 0;
+  overflow: hidden;
 }
 
 /* ── Navigation Arrows ── */
@@ -185,10 +190,16 @@
   display: flex;
   width: 100%;
   justify-content: center;
+  overflow: hidden;
 }
 
 .work-image-in {
   position: relative;
+  display: inline-block;
+  line-height: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 100%;
 }
 
 .work-link {
@@ -207,6 +218,7 @@
     inset 0px 0px 10px 0px #393939;
   transition: 0.3s;
   opacity: 0;
+  z-index: 2;
 }
 
 .work-image a:hover {
@@ -225,11 +237,15 @@
   left: 0;
   background-color: #000;
   object-fit: cover;
+  border-radius: 8px;
 }
 
 .work-image img {
-  max-width: 100%;
-  max-height: 400px;
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  height: 340px;
+  object-fit: cover;
   border-radius: 8px;
 }
 
@@ -326,6 +342,7 @@
   }
 
   .work-image img {
-    max-height: 250px;
+    height: 220px;
+    max-width: 100%;
   }
 }

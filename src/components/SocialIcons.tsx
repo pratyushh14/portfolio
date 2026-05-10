@@ -57,7 +57,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/Rishabh7889"
+            href="https://github.com/pratyushh14"
             target="_blank"
             rel="noreferrer"
             aria-label="GitHub"
@@ -67,7 +67,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/rishabhgarg7889"
+            href="https://www.linkedin.com/in/pratyush-rathore-09807620a/"
             target="_blank"
             rel="noreferrer"
             aria-label="LinkedIn"
@@ -76,14 +76,14 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="mailto:gargrishabh7889@gmail.com" aria-label="Email">
+          <a href="mailto:pratyushrathore2005@gmail.com" aria-label="Email">
             <MdEmail />
           </a>
         </span>
       </div>
       <a
         className="resume-button"
-        href="/Rishabh_Garg.pdf"
+        href="/pratyush_updated_res1page.pdf"
         target="_blank"
         rel="noreferrer"
       >

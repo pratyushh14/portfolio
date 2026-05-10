@@ -2,22 +2,23 @@ import { FaGraduationCap, FaCertificate } from "react-icons/fa6";
 import "./styles/EducationCerts.css";
 
 const certifications = [
-  "Introduction to Financial Markets",
-  "Data Science — Internshala",
-  "Introduction to Python",
-  "McKinsey Forward Program",
-  "Data Structures using C/C++",
+  "Object-Oriented Data Structures in C++",
+  " Introduction to Modern Database Systems-Saylor",
+  "AWS Academy Graduate - AWS Academy Cloud Foundations",
+  "Foundations of User Experience (UX) Design",
 ];
 
 const skills = [
-  "IT Business Analysis",
-  "Analytical Skills",
-  "Communication",
-  "Product Management",
+  "React.js",
+  "Node.js",
   "Python",
-  "SQL",
-  "EDA",
-  "Stakeholder Management",
+  "C++",
+  "JavaScript",
+  "MongoDB",
+  "PostgreSQL",
+  "Machine Learning",
+  "REST APIs",
+  "Socket.IO",
 ];
 
 const EducationCerts = () => {
@@ -36,10 +37,11 @@ const EducationCerts = () => {
             </div>
             <h3>Education</h3>
             <div className="edu-item">
-              <h4>Thapar University</h4>
-              <h5>2019 — 2023</h5>
+              <h4>Bennett University</h4>
+              <h5>2022 — 2026</h5>
               <p>
-                Bachelor of Engineering — Electronics and Computer Engineering
+                Bachelor of Technology — Computer Science and
+                Engineering
               </p>
             </div>
           </div>

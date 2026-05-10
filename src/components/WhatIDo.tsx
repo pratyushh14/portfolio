@@ -87,22 +87,24 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>PRODUCT &amp; STRATEGY</h3>
-              <h4>Turning Business Problems into Roadmaps</h4>
+              <h3>FULL STACK DEVELOPMENT</h3>
+              <h4>Turning Ideas into Scalable Web Products</h4>
               <p>
-                I partner with cross-functional teams—product, marketing, and
-                operations—to translate business requirements into data-driven
-                solutions that drive operational efficiency, cost savings, and
-                revenue growth.
+                I build end-to-end web applications — from responsive React frontends
+                to robust Node.js backends — with a focus on real-time systems,
+                clean architecture, and production-ready code that scales.
               </p>
               <h5>Skillset &amp; tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Product Management</div>
-                <div className="what-tags">IT Business Analysis</div>
-                <div className="what-tags">Roadmapping</div>
-                <div className="what-tags">Stakeholder Mgmt</div>
-                <div className="what-tags">Go-to-Market</div>
-                <div className="what-tags">Operations</div>
+                <div className="what-tags">React.js</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Express.js</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">Socket.IO</div>
+                <div className="what-tags">REST APIs</div>
+                <div className="what-tags">JWT Auth</div>
+
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,24 +128,25 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DATA &amp; ENGINEERING</h3>
-              <h4>From Raw Data to Production APIs</h4>
+              <h3>SYSTEMS &amp; BACKEND</h3>
+              <h4>From Architecture to Production-Ready Code</h4>
               <p>
-                I build the systems behind insight: Python scripts, web scraping
-                and OCR pipelines, exploratory data analysis, and backend
-                services with REST APIs on MongoDB and MySQL—production-ready,
-                not just notebooks.
+                I engineer robust backend systems and real-time infrastructure —
+                from building C++ parsers for network management at Ciena to
+                designing scalable REST APIs, JWT-secured auth, and WebSocket
+                pipelines that serve hundreds of concurrent users.
               </p>
               <h5>Skillset &amp; tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Python</div>
-                <div className="what-tags">BeautifulSoup &amp; Selenium</div>
-                <div className="what-tags">EasyOCR</div>
-                <div className="what-tags">EDA &amp; Statistics</div>
+                <div className="what-tags">C++</div>
+                <div className="what-tags">Node.js</div>
                 <div className="what-tags">REST APIs</div>
+                <div className="what-tags">Socket.IO</div>
+                <div className="what-tags">JWT Auth</div>
                 <div className="what-tags">MongoDB</div>
-                <div className="what-tags">MySQL</div>
-                <div className="what-tags">NGINX &amp; AWS EC2</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">Firebase</div>
+
               </div>
               <div className="what-arrow"></div>
             </div>

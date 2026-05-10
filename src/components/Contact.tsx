@@ -11,32 +11,32 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="mailto:gargrishabh7889@gmail.com"
+                href="mailto:pratyushrathore2005@gmail.com"
                 data-cursor="disable"
               >
-                gargrishabh7889@gmail.com
+                pratyushrathore2005@gmail.com
               </a>
             </p>
             <p>
               <a
-                href="https://www.linkedin.com/in/rishabhgarg7889"
+                href="https://www.linkedin.com/in/pratyush-rathore-09807620a/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                linkedin.com/in/rishabhgarg7889
+                linkedin.com/in/pratyush-rathore-09807620a/
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              B.E. Electronics &amp; Computer Engineering, Thapar University —
-              2019–2023
+              B.Tech Computer Science Engineering, Bennett University —
+              2022–2026
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/Rishabh7889"
+              href="https://github.com/pratyushh14"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -45,7 +45,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rishabhgarg7889"
+              href="https://www.linkedin.com/in/pratyush-rathore-09807620a/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -54,22 +54,21 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="mailto:gargrishabh7889@gmail.com"
+              href="mailto:pratyushrathore2005@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
               Email <MdArrowOutward />
             </a>
             <h4 style={{ marginTop: "20px" }}>Certifications</h4>
-            <p>Introduction to Financial Markets</p>
-            <p>Data Science — Internshala</p>
-            <p>Introduction to Python</p>
-            <p>McKinsey Forward Program</p>
-            <p>Data Structures using C/C++</p>
+            <p>Object-Oriented Data Structures in C++</p>
+            <p>Introduction to Modern Database Systems — Saylor</p>
+            <p>AWS Academy Graduate — AWS Academy Cloud Foundations</p>
+            <p>Foundations of User Experience (UX) Design</p>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rishabh Garg</span>
+              Designed and Developed <br /> by <span>Pratyush Rathore</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

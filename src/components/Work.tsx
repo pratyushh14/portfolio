@@ -5,45 +5,38 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "FOIR Calculation API",
-    category: "Lending · Backend Service @ Propelld",
+    title: "Collabrix",
+    category: "Project Management Platform · Full Stack",
     tools:
-      "Python, REST APIs, MongoDB, MySQL — risk-aware loan applicant assessment",
-    image: "/images/callhq.png",
-    link: "https://propelld.com",
+      "PostgreSQL, React.js, Node.js, Clerk, Inngest, Vercel — multi-tenant org & task management",
+    image: "/images/collabrix.png",
+    link: "https://collabrix-ruby.vercel.app",
   },
   {
-    title: "Web Scraping & OCR Pipeline",
-    category: "Data Engineering @ Collegedunia",
-    tools: "Python, BeautifulSoup, Selenium, EasyOCR, Pandas",
-    image: "/images/orrdr.png",
-    link: "https://collegedunia.com",
+    title: "NexaChat",
+    category: "Real-Time Chat Application · Full Stack",
+    tools:
+      "React 18, Supabase, PostgreSQL, Zustand, Vite — WebSocket messaging, file sharing, block system",
+    image: "/images/nexachat.png",
+    link: "https://nexa-chat-seven.vercel.app",
   },
   {
-    title: "Supply Chain Optimisation",
-    category: "Ops & Analytics @ York Agrotech",
+    title: "NeuraLink",
+    category: "Collaborative AI Platform · Full Stack",
     tools:
-      "Inventory · Supplier Coordination · Production Planning — 10–20% waste reduction",
-    image: "/images/broki.png",
+      "React, Node.js, Socket.IO, MongoDB, Google Gemini API, JWT — under 200ms response time",
+    image: "/images/neuralink.png",
     link: "#",
   },
   {
-    title: "Cross-functional Product Roadmaps",
-    category: "Product Management @ ExperGo Technologies",
+    title: "Well Nest",
+    category: "Disease Prediction · Machine Learning",
     tools:
-      "Discovery, Stakeholder Alignment, Data-driven Decisioning, GTM",
-    image: "/images/whatsapp.png",
-    link: "#",
-  },
-  {
-    title: "NGINX Log Rotation Automation",
-    category: "DevOps · Bash @ Propelld",
-    tools: "Bash, NGINX, AWS EC2 — automated log lifecycle on production",
-    image: "/images/preview1.png",
+      "Python, Scikit-learn, Pandas, Matplotlib — 87.3% accuracy across 5,000+ patient records",
+    image: "/images/wellnest.png",
     link: "#",
   },
 ];
-
 const Work = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isAnimating, setIsAnimating] = useState(false);
