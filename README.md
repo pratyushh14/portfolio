@@ -1,11 +1,12 @@
-# Rishabh Garg — Portfolio
+# Pratyush Rathore — Portfolio
 
-Personal 3D portfolio of **Rishabh Garg** — *Building at the intersection of AI, Product & Education.*
+Personal 3D portfolio of **Pratyush Rathore** — *Building Real-Time Web Apps & Scalable Systems.*
 Built with React, TypeScript, Three.js, React Three Fiber, and GSAP. Includes animated page sections, an interactive 3D character scene, a physics-driven tech-stack canvas, custom cursor, and smooth scroll transitions.
 
-> Bengaluru, India · Plaksha University · ex–ExperGo · ex–York Agrotech · ex–Collegedunia · ex–Propelld
+> Greater Noida, India · Bennett University · ex–Ciena · ex–C-DOT
 
-![Portfolio Preview](public/images/preview1.png)
+![Portfolio Preview](<img width="1269" height="697" alt="image" src="https://github.com/user-attachments/assets/0bb1c834-45b1-43ea-a87a-6a4c22515bc8" />
+)
 
 ## Table of Contents
 
@@ -25,7 +26,7 @@ Built with React, TypeScript, Three.js, React Three Fiber, and GSAP. Includes an
 - Responsive one-page portfolio layout with reusable section components.
 - 3D character scene rendering powered by React Three Fiber and Three.js.
 - Physics-based "tech-stack" canvas using `@react-three/rapier`.
-- Education + Certifications section showcasing academic and self-learning credentials.
+- Projects section showcasing full-stack apps and ML models.
 - GSAP-powered animations, smooth scrolling, and scroll-driven visual effects.
 - Custom cursor, hover interactions, and animated landing/loading screens.
 - Organized component architecture with dedicated utilities and style modules.
@@ -92,22 +93,22 @@ Built with React, TypeScript, Three.js, React Three Fiber, and GSAP. Includes an
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone <your-repository-url>
    cd 3d-portfolio
-   ```
+```
 
 2. Install dependencies:
 
-   ```bash
+```bash
    npm install
-   ```
+```
 
 3. Start the local development server:
 
-   ```bash
+```bash
    npm run dev
-   ```
+```
 
 4. Open the URL shown in the terminal (typically `http://localhost:5173`).
 
@@ -162,15 +163,15 @@ You can adapt this portfolio to your own profile by updating the following areas
 
 1. Create a production build:
 
-   ```bash
+```bash
    npm run build
-   ```
+```
 
 2. Validate locally:
 
-   ```bash
+```bash
    npm run preview
-   ```
+```
 
 3. Deploy the generated `dist/` folder to your hosting provider (for example Vercel, Netlify, or Cloudflare Pages).
 
