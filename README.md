@@ -5,8 +5,7 @@ Built with React, TypeScript, Three.js, React Three Fiber, and GSAP. Includes an
 
 > Greater Noida, India · Bennett University · ex–Ciena · ex–C-DOT
 
-![Portfolio Preview](<img width="1269" height="697" alt="image" src="https://github.com/user-attachments/assets/0bb1c834-45b1-43ea-a87a-6a4c22515bc8" />
-)
+![Portfolio Preview](https://github.com/user-attachments/assets/0bb1c834-45b1-43ea-a87a-6a4c22515bc8)
 
 ## Table of Contents
 
